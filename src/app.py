@@ -101,6 +101,15 @@ capabilities = {
         "industry_verticals": ["Technology", "Financial Services", "Healthcare"],
         "capacity": 20,
         "consultants": ["charlotte.young@slalom.com", "henry.king@slalom.com"]
+    },
+    "Slalom Build": {
+        "description": "Product strategy, user experience design, and agile product development",
+        "practice_area": "Technology",
+        "skill_levels": ["Emerging", "Proficient", "Advanced", "Expert"],
+        "certifications": ["Product Management", "Agile Certified Practitioner", "User Experience Design"],
+        "industry_verticals": ["Consumer Products", "FinTech", "HealthTech", "Technology"],
+        "capacity": 45,
+        "consultants": ["marcus.thompson@slalom.com", "david.chen@slalom.com", "jennifer.santos@slalom.com"]
     }
 }
 
